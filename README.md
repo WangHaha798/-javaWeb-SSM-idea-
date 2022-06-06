@@ -1,10 +1,6 @@
 # -javaWeb-SSM-idea-
 
-该校园帮项目开发环境 jdk1.8+tomcat8+MySQL8
-
-
 原创地址：https://github.com/ytu-shh/campusHelp
-
 
 校园帮项目
 校园即时服务平台
@@ -22,4 +18,5 @@
 注册、登录、公告中心、任务管理（发布任务、接受任务、完成任务）、个人中心（查看个人信息、修改个人信息、充值管理）、修改密码、评价管理（评价任务、查看评价）
 
 # 开发环境
+Spring+SpringMVC+MyBatis
 jdk1.8+tomcat8.5+mysql5.7
